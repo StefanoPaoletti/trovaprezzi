@@ -289,22 +289,6 @@
 
   </Offer>
   <Offer>
-    <Name>Boston Advance Conservante</Name>
-    <Brand>BAUSCH + LOMB</Brand>
-    <Description>Scopri Boston Advance Conservante, la soluzione disinfettante di Bausch + Lomb per la cura completa delle tue lenti a contatto rigide gas permeabili (RGP). Disinfetta, conserva e mantiene le lenti idratate, garantendo comfort e sicurezza ogni</Description>
-    <Price>11.0</Price>
-    <Code>BAC-120</Code>
-    <Link>https://otticapaoletti.it/products/boston-soluzione-conservante?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/boston-advance-conservante-soluzione-disinfettante-per-lenti-rgp-9430559.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340697&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>7391899837222</EanCode>
-
-
-
-  </Offer>
-  <Offer>
     <Name>Blu Gel A Free Collirio Acido Ialuronico 0,3% - monodose</Name>
     <Brand>Fidia</Brand>
     <Description>BLUgel A monodose di Fidia è una soluzione oftalmica isotonica di sodio ialuronato 0,30% e aminoacidi, senza conservanti, in comodi contenitori monodose. Compatibile con le lenti a contatto. Indicazioni Indicato nella sindrome da disfunzione</Description>
@@ -318,6 +302,22 @@
     <EanCode>8033661807352</EanCode>
 
     <MinsanCode>935800805</MinsanCode>
+
+
+  </Offer>
+  <Offer>
+    <Name>Boston Advance Conservante</Name>
+    <Brand>BAUSCH + LOMB</Brand>
+    <Description>Scopri Boston Advance Conservante, la soluzione disinfettante di Bausch + Lomb per la cura completa delle tue lenti a contatto rigide gas permeabili (RGP). Disinfetta, conserva e mantiene le lenti idratate, garantendo comfort e sicurezza ogni</Description>
+    <Price>11.0</Price>
+    <Code>BAC-120</Code>
+    <Link>https://otticapaoletti.it/products/boston-soluzione-conservante?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/boston-advance-conservante-soluzione-disinfettante-per-lenti-rgp-9430559.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340697&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>7391899837222</EanCode>
+
 
 
   </Offer>
