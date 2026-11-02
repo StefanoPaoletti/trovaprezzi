@@ -504,23 +504,6 @@
 
   </Offer>
   <Offer>
-    <Name>Astuccio Clic-Clac per Contenere Due Occhiali - Viola e Fuxia</Name>
-    <Brand>Centrostyle</Brand>
-    <Description>Scopri l&#39;Astuccio Clic-Clac, la soluzione perfetta per proteggere e trasportare due paia di occhiali in un unico accessorio. Realizzato da Centro Style in morbido tessuto bicolore con ricamo, questo astuccio unisce praticità e stile con la sua</Description>
-    <Price>6.0</Price>
-    <Code>Clic-Clac-Vi</Code>
-    <Link>https://otticapaoletti.it/products/astuccio-clic-clac-per-contenere-due-occhiali?variant=44403373834562&amp;utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>limitata</Stock>
-    <Categories>Occhiali;Accessori per occhiali</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/products/astuccio-clic-clac-per-contenere-due-occhiali-centro-style-4327874.jpg?crop=center&amp;height=1000&amp;v=1773340765&amp;width=1000</Image>
-    <ShippingCost>5.20</ShippingCost>
-    <EanCode>8058692003597</EanCode>
-
-
-
-    <ParentId>8102763725122</ParentId>
-  </Offer>
-  <Offer>
     <Name>IRIDIUM 20 Garze</Name>
     <Brand>Fidia</Brand>
     <Description>Le garze IRIDIUM di Fidia sono garze sterili in cotone 100% naturale, imbevute di una soluzione di estratti vegetali: Echinacea angustifolia, Ananas sativus e ammonio glicirizzinato. Indicazioni Rimozione dalle palpebre e dalle ciglia di croste,</Description>
@@ -537,6 +520,23 @@
 
     <Weight>0.1</Weight>
 
+  </Offer>
+  <Offer>
+    <Name>Astuccio Clic-Clac per Contenere Due Occhiali - Viola e Fuxia</Name>
+    <Brand>Centrostyle</Brand>
+    <Description>Scopri l&#39;Astuccio Clic-Clac, la soluzione perfetta per proteggere e trasportare due paia di occhiali in un unico accessorio. Realizzato da Centro Style in morbido tessuto bicolore con ricamo, questo astuccio unisce praticità e stile con la sua</Description>
+    <Price>6.0</Price>
+    <Code>Clic-Clac-Vi</Code>
+    <Link>https://otticapaoletti.it/products/astuccio-clic-clac-per-contenere-due-occhiali?variant=44403373834562&amp;utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>limitata</Stock>
+    <Categories>Occhiali;Accessori per occhiali</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/products/astuccio-clic-clac-per-contenere-due-occhiali-centro-style-4327874.jpg?crop=center&amp;height=1000&amp;v=1773340765&amp;width=1000</Image>
+    <ShippingCost>5.20</ShippingCost>
+    <EanCode>8058692003597</EanCode>
+
+
+
+    <ParentId>8102763725122</ParentId>
   </Offer>
   <Offer>
     <Name>TotalCare Soluzione Conservante 120ml</Name>
@@ -597,54 +597,6 @@
     <Categories>Occhiali;Accessori per occhiali</Categories>
     <Image>https://otticapaoletti.it/cdn/shop/products/multiclean-antifog-pulitore-per-lenti-antiriflesso-20-ml-8117898.jpg?crop=center&amp;height=1000&amp;v=1773341131&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
-
-
-
-  </Offer>
-  <Offer>
-    <Name>Persol PO3383S 12374E 51-21</Name>
-    <Brand>Persol</Brand>
-    <Description>Occhiali da sole Persol PO3383S 12374E Occhiali da sole con montatura a righe nere e verde oliva. Lenti in cristallo verde.</Description>
-    <Price>236.0</Price>
-    <Code>PO3383S-12374E-51</Code>
-    <Link>https://otticapaoletti.it/products/persol-po3383s-12374e-51-21?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>limitata</Stock>
-    <Categories>Occhiali;Occhiali da sole</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/persol-po3383s-12374e-51-21-9355905.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773339986&amp;width=1000</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8056262551714</EanCode>
-
-
-
-  </Offer>
-  <Offer>
-    <Name>Contenitore per Lenti a Contatto Morbide e Rigide Gas Permeabili (R.G.P.)</Name>
-    <Brand>Centrostyle</Brand>
-    <Description>Scopri il Contenitore per lenti a contatto morbide e R.G.P., l’accessorio essenziale per conservare in sicurezza le tue lenti a contatto morbide e rigide gas permeabili. Progettato per garantire igiene e praticità, è perfetto per l’uso quotidiano o</Description>
-    <Price>3.0</Price>
-    <Code>CONT-LENTI-MORB-RGP</Code>
-    <Link>https://otticapaoletti.it/products/contenitore-per-lenti-a-contatto-morbide-e-r-g-p?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Kit per la cura delle lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/contenitore-per-lenti-a-contatto-morbide-e-rigide-gas-permeabili-rgp-7962559.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340397&amp;width=1000</Image>
-    <ShippingCost>5.20</ShippingCost>
-    <EanCode>8019659087203</EanCode>
-
-
-
-  </Offer>
-  <Offer>
-    <Name>TotalCare Detergente Quotidiano (2x 15ml)</Name>
-    <Brand>Amo</Brand>
-    <Description>TotalCare Detergente Quotidiano è il detergente specifico per la pulizia giornaliera delle lenti a contatto rigide e gas-permeabili (RGP). Utilizzato prima della disinfezione, aiuta a rimuovere depositi proteici, lipidici e impurità, migliorando</Description>
-    <Price>10.0</Price>
-    <Code>TCD-15</Code>
-    <Link>https://otticapaoletti.it/products/totalcare-detergente-quotidiano?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/totalcare-detergente-quotidiano-2x-15ml-4203891.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773339974&amp;width=1000</Image>
-    <ShippingCost>5.20</ShippingCost>
-    <EanCode>5050474102323</EanCode>
 
 
 
@@ -728,6 +680,54 @@
 
 
     <ParentId>11347329679687</ParentId>
+  </Offer>
+  <Offer>
+    <Name>Persol PO3383S 12374E 51-21</Name>
+    <Brand>Persol</Brand>
+    <Description>Occhiali da sole Persol PO3383S 12374E Occhiali da sole con montatura a righe nere e verde oliva. Lenti in cristallo verde.</Description>
+    <Price>236.0</Price>
+    <Code>PO3383S-12374E-51</Code>
+    <Link>https://otticapaoletti.it/products/persol-po3383s-12374e-51-21?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>limitata</Stock>
+    <Categories>Occhiali;Occhiali da sole</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/persol-po3383s-12374e-51-21-9355905.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773339986&amp;width=1000</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8056262551714</EanCode>
+
+
+
+  </Offer>
+  <Offer>
+    <Name>Contenitore per Lenti a Contatto Morbide e Rigide Gas Permeabili (R.G.P.)</Name>
+    <Brand>Centrostyle</Brand>
+    <Description>Scopri il Contenitore per lenti a contatto morbide e R.G.P., l’accessorio essenziale per conservare in sicurezza le tue lenti a contatto morbide e rigide gas permeabili. Progettato per garantire igiene e praticità, è perfetto per l’uso quotidiano o</Description>
+    <Price>3.0</Price>
+    <Code>CONT-LENTI-MORB-RGP</Code>
+    <Link>https://otticapaoletti.it/products/contenitore-per-lenti-a-contatto-morbide-e-r-g-p?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Kit per la cura delle lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/contenitore-per-lenti-a-contatto-morbide-e-rigide-gas-permeabili-rgp-7962559.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340397&amp;width=1000</Image>
+    <ShippingCost>5.20</ShippingCost>
+    <EanCode>8019659087203</EanCode>
+
+
+
+  </Offer>
+  <Offer>
+    <Name>TotalCare Detergente Quotidiano (2x 15ml)</Name>
+    <Brand>Amo</Brand>
+    <Description>TotalCare Detergente Quotidiano è il detergente specifico per la pulizia giornaliera delle lenti a contatto rigide e gas-permeabili (RGP). Utilizzato prima della disinfezione, aiuta a rimuovere depositi proteici, lipidici e impurità, migliorando</Description>
+    <Price>10.0</Price>
+    <Code>TCD-15</Code>
+    <Link>https://otticapaoletti.it/products/totalcare-detergente-quotidiano?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/totalcare-detergente-quotidiano-2x-15ml-4203891.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773339974&amp;width=1000</Image>
+    <ShippingCost>5.20</ShippingCost>
+    <EanCode>5050474102323</EanCode>
+
+
+
   </Offer>
   <Offer>
     <Name>Persol PO3384S 12284E 52-22</Name>
