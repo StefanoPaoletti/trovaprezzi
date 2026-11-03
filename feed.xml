@@ -171,23 +171,6 @@
 
   </Offer>
   <Offer>
-    <Name>REPAXIAL 20 compresse</Name>
-    <Brand>Fidia</Brand>
-    <Description>Repaxial di Fidia è un integratore alimentare a base di estratto di verbasco (verbascoside), riso nero (C3G) e zinco. Senza glutine e senza lattosio. Lo zinco contribuisce: al mantenimento della capacità visiva normale alla protezione delle cellule</Description>
-    <Price>17.0</Price>
-    <Code>986112872</Code>
-    <Link>https://otticapaoletti.it/products/repaxial-20-compresse?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/repaxial-20-compresse-6348868.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779516850&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661807802</EanCode>
-
-    <MinsanCode>986112872</MinsanCode>
-
-
-  </Offer>
-  <Offer>
     <Name>BLUgel A free</Name>
     <Brand>Fidia</Brand>
     <Description>BLUgel A free di Fidia è una soluzione oftalmica isotonica di sodio ialuronato 0,30% e aminoacidi, senza conservanti. Compatibile con le lenti a contatto. Indicazioni Indicato nella sindrome da disfunzione lacrimale severa per l&#39;idratazione e la</Description>
@@ -220,6 +203,23 @@
     <MinsanCode>980115380</MinsanCode>
 
     <Weight>0.1</Weight>
+
+  </Offer>
+  <Offer>
+    <Name>REPAXIAL 20 compresse</Name>
+    <Brand>Fidia</Brand>
+    <Description>Repaxial di Fidia è un integratore alimentare a base di estratto di verbasco (verbascoside), riso nero (C3G) e zinco. Senza glutine e senza lattosio. Lo zinco contribuisce: al mantenimento della capacità visiva normale alla protezione delle cellule</Description>
+    <Price>17.0</Price>
+    <Code>986112872</Code>
+    <Link>https://otticapaoletti.it/products/repaxial-20-compresse?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/repaxial-20-compresse-6348868.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779516850&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661807802</EanCode>
+
+    <MinsanCode>986112872</MinsanCode>
+
 
   </Offer>
   <Offer>
