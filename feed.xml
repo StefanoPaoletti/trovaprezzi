@@ -246,7 +246,7 @@
     <Price>14.0</Price>
     <Code>PER-OX-250-30</Code>
     <Link>https://otticapaoletti.it/products/active-care-up-perossido?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
     <Image>https://otticapaoletti.it/cdn/shop/files/active-care-up-perossido-8952454.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462580&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
@@ -254,6 +254,22 @@
 
     <Weight>0.25</Weight>
 
+  </Offer>
+  <Offer>
+    <Name>Multiclean Pulitore Lenti e Occhiali - Spray Detergente - 125 ml</Name>
+    <Brand>VisionCare</Brand>
+    <Description>Scopri il Multiclean Pulitore Lenti e Occhiali, lo spray detergente ideale per mantenere le tue lenti e occhiali sempre puliti e brillanti. Una formula innovativa e sicura, perfetta per rimuovere sporco e impronte con facilità. Perché scegliere</Description>
+    <Price>7.0</Price>
+    <Code>MULTICLEAN-125</Code>
+    <Link>https://otticapaoletti.it/products/multiclean-pulitore-lenti-occhiali-125-ml?variant=52829486154055&amp;utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Occhiali;Accessori per occhiali</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/multiclean-pulitore-lenti-e-occhiali-spray-detergente-8073176.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340466&amp;width=1000</Image>
+    <ShippingCost>5.20</ShippingCost>
+
+
+
+    <ParentId>8102763594050</ParentId>
   </Offer>
   <Offer>
     <Name>Multiclean Pulitore Lenti e Occhiali - Spray Detergente - 30 ml</Name>
