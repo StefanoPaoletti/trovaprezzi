@@ -136,24 +136,6 @@
 
   </Offer>
   <Offer>
-    <Name>LACRISEK free collirio 10ml</Name>
-    <Brand>Fidia</Brand>
-    <Description>LACRiSEK Free di Fidia è una soluzione oftalmica sterile a base di liposomi, vitamina A, vitamina E e aminoacidi, senza conservanti. Indicazioni Indicato nei disturbi soggettivi in corso di sindrome dell&#39;occhio secco, come sensazione di corpo</Description>
-    <Price>14.37</Price>
-    <Code>971684131</Code>
-    <Link>https://otticapaoletti.it/products/lacrisek-free-collirio-10ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/lacrisek-free-collirio-10ml-8558525.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340230&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661806379</EanCode>
-
-    <MinsanCode>971684131</MinsanCode>
-
-    <Weight>0.1</Weight>
-
-  </Offer>
-  <Offer>
     <Name>IRIDIUM A free 10 ml</Name>
     <Brand>Fidia</Brand>
     <Description>IRIDIUM® A free di Fidia è una soluzione oftalmica isotonica sterile, senza conservanti, con acido ialuronico ed estratto di Echinacea. Indicazioni Indicato per l&#39;idratazione e la lubrificazione della superficie oculare in presenza di alterazioni</Description>
@@ -185,6 +167,24 @@
 
     <MinsanCode>971528183</MinsanCode>
 
+
+  </Offer>
+  <Offer>
+    <Name>LACRISEK free collirio 10ml</Name>
+    <Brand>Fidia</Brand>
+    <Description>LACRiSEK Free di Fidia è una soluzione oftalmica sterile a base di liposomi, vitamina A, vitamina E e aminoacidi, senza conservanti. Indicazioni Indicato nei disturbi soggettivi in corso di sindrome dell&#39;occhio secco, come sensazione di corpo</Description>
+    <Price>14.37</Price>
+    <Code>971684131</Code>
+    <Link>https://otticapaoletti.it/products/lacrisek-free-collirio-10ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/lacrisek-free-collirio-10ml-8558525.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340230&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661806379</EanCode>
+
+    <MinsanCode>971684131</MinsanCode>
+
+    <Weight>0.1</Weight>
 
   </Offer>
   <Offer>
