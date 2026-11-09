@@ -1,22 +1,5 @@
 <Products>
   <Offer>
-    <Name>LUTEIN Omega 3 30 cps</Name>
-    <Brand>Fidia</Brand>
-    <Description>LUTEIN Omega3 di Fidia è un integratore alimentare di vitamine, minerali, luteina e zeaxantina (da Tagetes erecta L.) con olio di pesce ricco in DHA. Le sostanze contenute contribuiscono: al mantenimento della capacità visiva normale (zinco) alla</Description>
-    <Price>16.5</Price>
-    <Code>904932163</Code>
-    <Link>https://otticapaoletti.it/products/lutein-omega3-integratore-per-retina-e-occhi-30-capsule?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/lutein-omega3-integratore-per-retina-e-occhi-30-capsule-2233443.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773339967&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661806805</EanCode>
-
-    <MinsanCode>904932163</MinsanCode>
-
-
-  </Offer>
-  <Offer>
     <Name>MACULAR B forte 20 cpr</Name>
     <Brand>Fidia</Brand>
     <Description>MACULAR B forte di Fidia Farmaceutici è un integratore alimentare a base di luteina FloraGLO® e zeaxantina (da Tagetes erecta L.), vitamina E, zinco, rame, selenio, vitamine B2, B6, B12, acido folico e Ginkgo biloba. Le sostanze contenute</Description>
@@ -30,6 +13,23 @@
     <EanCode>8033661806355</EanCode>
 
     <MinsanCode>938796733</MinsanCode>
+
+
+  </Offer>
+  <Offer>
+    <Name>LUTEIN Omega 3 30 cps</Name>
+    <Brand>Fidia</Brand>
+    <Description>LUTEIN Omega3 di Fidia è un integratore alimentare di vitamine, minerali, luteina e zeaxantina (da Tagetes erecta L.) con olio di pesce ricco in DHA. Le sostanze contenute contribuiscono: al mantenimento della capacità visiva normale (zinco) alla</Description>
+    <Price>16.5</Price>
+    <Code>904932163</Code>
+    <Link>https://otticapaoletti.it/products/lutein-omega3-integratore-per-retina-e-occhi-30-capsule?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/lutein-omega3-integratore-per-retina-e-occhi-30-capsule-2233443.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773339967&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661806805</EanCode>
+
+    <MinsanCode>904932163</MinsanCode>
 
 
   </Offer>
@@ -119,23 +119,6 @@
 
   </Offer>
   <Offer>
-    <Name>VITREOXIGEN 20 compresse</Name>
-    <Brand>Fidia</Brand>
-    <Description>VITREOXIGEN® di Fidia è un integratore alimentare a base di minerali, aminoacidi e vitamine, con estratti vegetali, in compresse effervescenti. Le sostanze contenute contribuiscono: al mantenimento dell&#39;equilibrio elettrolitico alla riduzione della</Description>
-    <Price>12.4</Price>
-    <Code>900191469</Code>
-    <Link>https://otticapaoletti.it/products/vitreoxigen?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/vitreoxigen-20-compresse-effervescenti-2768222.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773339986&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661806898</EanCode>
-
-    <MinsanCode>900191469</MinsanCode>
-
-
-  </Offer>
-  <Offer>
     <Name>IRIDIUM A free 10 ml</Name>
     <Brand>Fidia</Brand>
     <Description>IRIDIUM® A free di Fidia è una soluzione oftalmica isotonica sterile, senza conservanti, con acido ialuronico ed estratto di Echinacea. Indicazioni Indicato per l&#39;idratazione e la lubrificazione della superficie oculare in presenza di alterazioni</Description>
@@ -149,6 +132,23 @@
     <EanCode>8033661805440</EanCode>
 
     <MinsanCode>971528219</MinsanCode>
+
+
+  </Offer>
+  <Offer>
+    <Name>VITREOXIGEN 20 compresse</Name>
+    <Brand>Fidia</Brand>
+    <Description>VITREOXIGEN® di Fidia è un integratore alimentare a base di minerali, aminoacidi e vitamine, con estratti vegetali, in compresse effervescenti. Le sostanze contenute contribuiscono: al mantenimento dell&#39;equilibrio elettrolitico alla riduzione della</Description>
+    <Price>12.4</Price>
+    <Code>900191469</Code>
+    <Link>https://otticapaoletti.it/products/vitreoxigen?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/vitreoxigen-20-compresse-effervescenti-2768222.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773339986&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661806898</EanCode>
+
+    <MinsanCode>900191469</MinsanCode>
 
 
   </Offer>
