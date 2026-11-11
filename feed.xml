@@ -119,6 +119,23 @@
 
   </Offer>
   <Offer>
+    <Name>REPAXIAL 20 compresse</Name>
+    <Brand>Fidia</Brand>
+    <Description>Repaxial di Fidia è un integratore alimentare a base di estratto di verbasco (verbascoside), riso nero (C3G) e zinco. Senza glutine e senza lattosio. Lo zinco contribuisce: al mantenimento della capacità visiva normale alla protezione delle cellule</Description>
+    <Price>16.4</Price>
+    <Code>986112872</Code>
+    <Link>https://otticapaoletti.it/products/repaxial-20-compresse?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/repaxial-20-compresse-6348868.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779516850&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661807802</EanCode>
+
+    <MinsanCode>986112872</MinsanCode>
+
+
+  </Offer>
+  <Offer>
     <Name>IRIDIUM A free 10 ml</Name>
     <Brand>Fidia</Brand>
     <Description>IRIDIUM® A free di Fidia è una soluzione oftalmica isotonica sterile, senza conservanti, con acido ialuronico ed estratto di Echinacea. Indicazioni Indicato per l&#39;idratazione e la lubrificazione della superficie oculare in presenza di alterazioni</Description>
@@ -408,6 +425,22 @@
 
   </Offer>
   <Offer>
+    <Name>TotalCare Soluzione Conservante 120ml</Name>
+    <Brand>Amo</Brand>
+    <Description>Scopri TotalCare Soluzione Conservante 120ml, la soluzione tutto-in-uno di Amo per disinfettare, conservare e idratare le tue lenti a contatto rigide gas permeabili (RGP). Garantisce lenti pulite, sicure e confortevoli per tutto il giorno. Perché</Description>
+    <Price>10.0</Price>
+    <Code>TCC-120</Code>
+    <Link>https://otticapaoletti.it/products/totalcare-soluzione-conservante-120ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/totalcare-soluzione-conservante-120ml-disinfezione-e-idratazione-per-lenti-rgp-8999414.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340510&amp;width=1000</Image>
+    <ShippingCost>5.20</ShippingCost>
+    <EanCode>5050474106161</EanCode>
+
+
+
+  </Offer>
+  <Offer>
     <Name>TotalCare Detergente Quotidiano (2x 15ml)</Name>
     <Brand>Amo</Brand>
     <Description>TotalCare Detergente Quotidiano è il detergente specifico per la pulizia giornaliera delle lenti a contatto rigide e gas-permeabili (RGP). Utilizzato prima della disinfezione, aiuta a rimuovere depositi proteici, lipidici e impurità, migliorando</Description>
@@ -535,22 +568,6 @@
 
 
     <ParentId>11347329679687</ParentId>
-  </Offer>
-  <Offer>
-    <Name>TotalCare Soluzione Conservante 120ml</Name>
-    <Brand>Amo</Brand>
-    <Description>Scopri TotalCare Soluzione Conservante 120ml, la soluzione tutto-in-uno di Amo per disinfettare, conservare e idratare le tue lenti a contatto rigide gas permeabili (RGP). Garantisce lenti pulite, sicure e confortevoli per tutto il giorno. Perché</Description>
-    <Price>10.0</Price>
-    <Code>TCC-120</Code>
-    <Link>https://otticapaoletti.it/products/totalcare-soluzione-conservante-120ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/totalcare-soluzione-conservante-120ml-disinfezione-e-idratazione-per-lenti-rgp-8999414.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340510&amp;width=1000</Image>
-    <ShippingCost>5.20</ShippingCost>
-    <EanCode>5050474106161</EanCode>
-
-
-
   </Offer>
   <Offer>
     <Name>Lens Plus OcuPure 360ml</Name>
@@ -869,23 +886,6 @@
     <ShippingCost>5.20</ShippingCost>
     <EanCode>8019659119928</EanCode>
 
-
-
-  </Offer>
-  <Offer>
-    <Name>REPAXIAL 20 compresse</Name>
-    <Brand>Fidia</Brand>
-    <Description>Repaxial di Fidia è un integratore alimentare a base di estratto di verbasco (verbascoside), riso nero (C3G) e zinco. Senza glutine e senza lattosio. Lo zinco contribuisce: al mantenimento della capacità visiva normale alla protezione delle cellule</Description>
-    <Price>16.4</Price>
-    <Code>986112872</Code>
-    <Link>https://otticapaoletti.it/products/repaxial-20-compresse?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>in arrivo</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/repaxial-20-compresse-6348868.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779516850&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661807802</EanCode>
-
-    <MinsanCode>986112872</MinsanCode>
 
 
   </Offer>
