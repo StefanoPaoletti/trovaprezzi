@@ -240,22 +240,6 @@
 
   </Offer>
   <Offer>
-    <Name>ACTIVE care-up perossido</Name>
-    <Brand>Occhio x Occhio</Brand>
-    <Description>ACTIVE Care-Up Perossido di OcchioXOcchio è un sistema monofase con perossido di idrogeno al 3% per la pulizia, la disinfezione e la neutralizzazione di tutti i tipi di lenti a contatto. Il perossido di idrogeno disinfetta le lenti mentre la</Description>
-    <Price>14.0</Price>
-    <Code>PER-OX-250-30</Code>
-    <Link>https://otticapaoletti.it/products/active-care-up-perossido?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/active-care-up-perossido-8952454.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462580&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-
-
-    <Weight>0.25</Weight>
-
-  </Offer>
-  <Offer>
     <Name>Multiclean Pulitore Lenti e Occhiali - Spray Detergente - 125 ml</Name>
     <Brand>VisionCare</Brand>
     <Description>Scopri il Multiclean Pulitore Lenti e Occhiali, lo spray detergente ideale per mantenere le tue lenti e occhiali sempre puliti e brillanti. Una formula innovativa e sicura, perfetta per rimuovere sporco e impronte con facilità. Perché scegliere</Description>
@@ -286,6 +270,22 @@
 
 
     <ParentId>8102763594050</ParentId>
+  </Offer>
+  <Offer>
+    <Name>ACTIVE care-up perossido</Name>
+    <Brand>Occhio x Occhio</Brand>
+    <Description>ACTIVE Care-Up Perossido di OcchioXOcchio è un sistema monofase con perossido di idrogeno al 3% per la pulizia, la disinfezione e la neutralizzazione di tutti i tipi di lenti a contatto. Il perossido di idrogeno disinfetta le lenti mentre la</Description>
+    <Price>14.0</Price>
+    <Code>PER-OX-250-30</Code>
+    <Link>https://otticapaoletti.it/products/active-care-up-perossido?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/active-care-up-perossido-8952454.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462580&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+
+
+    <Weight>0.25</Weight>
+
   </Offer>
   <Offer>
     <Name>OPTOrespilens 360ml</Name>
@@ -421,6 +421,22 @@
 
 
     <ParentId>8102764052802</ParentId>
+  </Offer>
+  <Offer>
+    <Name>Microfibra Artù King Size 35x40 cm</Name>
+    <Brand>Centrostyle</Brand>
+    <Description>Scopri il Microfibra Artù King Size 35x40 cm, il panno in microfibra ideale per la pulizia delicata e profonda di occhiali da vista e da sole. Grazie alle sue dimensioni extra-large e alla qualità premium, garantisce una pulizia senza aloni per</Description>
+    <Price>8.0</Price>
+    <Code>MICROARTU-3540</Code>
+    <Link>https://otticapaoletti.it/products/microfibra-pulizia-occhiali-king-size-35x40-cm?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Occhiali;Accessori per occhiali</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/microfibra-artu-king-size-35x40-cm-panno-pulizia-occhiali-4340431.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340582&amp;width=1000</Image>
+    <ShippingCost>5.20</ShippingCost>
+    <EanCode>8019659119928</EanCode>
+
+
+
   </Offer>
   <Offer>
     <Name>MERAMIRT collirio 8 ml</Name>
@@ -869,22 +885,6 @@
     <Image>https://otticapaoletti.it/cdn/shop/files/contenitore-per-lenti-a-contatto-morbide-e-rigide-gas-permeabili-rgp-7962559.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340397&amp;width=1000</Image>
     <ShippingCost>5.20</ShippingCost>
     <EanCode>8019659087203</EanCode>
-
-
-
-  </Offer>
-  <Offer>
-    <Name>Microfibra Artù King Size 35x40 cm</Name>
-    <Brand>Centrostyle</Brand>
-    <Description>Scopri il Microfibra Artù King Size 35x40 cm, il panno in microfibra ideale per la pulizia delicata e profonda di occhiali da vista e da sole. Grazie alle sue dimensioni extra-large e alla qualità premium, garantisce una pulizia senza aloni per</Description>
-    <Price>8.0</Price>
-    <Code>MICROARTU-3540</Code>
-    <Link>https://otticapaoletti.it/products/microfibra-pulizia-occhiali-king-size-35x40-cm?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Occhiali;Accessori per occhiali</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/microfibra-artu-king-size-35x40-cm-panno-pulizia-occhiali-4340431.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340582&amp;width=1000</Image>
-    <ShippingCost>5.20</ShippingCost>
-    <EanCode>8019659119928</EanCode>
 
 
 
