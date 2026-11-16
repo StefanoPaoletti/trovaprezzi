@@ -136,23 +136,6 @@
 
   </Offer>
   <Offer>
-    <Name>LACRISEK Plus Spray collirio 8 ml</Name>
-    <Brand>Fidia</Brand>
-    <Description>LACRiSEK® PLUS Spray di Fidia è un prodotto sterile a base di liposomi, vitamina A, vitamina E e aminoacidi, senza conservanti. Si spruzza a palpebre chiuse, quindi è comodo da usare anche in presenza di make-up. Indicazioni Indicato nei disturbi</Description>
-    <Price>12.49</Price>
-    <Code>971684129</Code>
-    <Link>https://otticapaoletti.it/products/lacrisek-plus-spray?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/lacrisek-plus-spray-collirio-8-ml-8588416.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779019755&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661805426</EanCode>
-
-    <MinsanCode>971684129</MinsanCode>
-
-
-  </Offer>
-  <Offer>
     <Name>IRIDIUM A free 10 ml</Name>
     <Brand>Fidia</Brand>
     <Description>IRIDIUM® A free di Fidia è una soluzione oftalmica isotonica sterile, senza conservanti, con acido ialuronico ed estratto di Echinacea. Indicazioni Indicato per l&#39;idratazione e la lubrificazione della superficie oculare in presenza di alterazioni</Description>
@@ -166,6 +149,23 @@
     <EanCode>8033661805440</EanCode>
 
     <MinsanCode>971528219</MinsanCode>
+
+
+  </Offer>
+  <Offer>
+    <Name>LACRISEK Plus Spray collirio 8 ml</Name>
+    <Brand>Fidia</Brand>
+    <Description>LACRiSEK® PLUS Spray di Fidia è un prodotto sterile a base di liposomi, vitamina A, vitamina E e aminoacidi, senza conservanti. Si spruzza a palpebre chiuse, quindi è comodo da usare anche in presenza di make-up. Indicazioni Indicato nei disturbi</Description>
+    <Price>12.49</Price>
+    <Code>971684129</Code>
+    <Link>https://otticapaoletti.it/products/lacrisek-plus-spray?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/lacrisek-plus-spray-collirio-8-ml-8588416.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779019755&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661805426</EanCode>
+
+    <MinsanCode>971684129</MinsanCode>
 
 
   </Offer>
