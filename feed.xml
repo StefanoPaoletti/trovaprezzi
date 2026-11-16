@@ -6,7 +6,7 @@
     <Price>15.52</Price>
     <Code>938796733</Code>
     <Link>https://otticapaoletti.it/products/macular-b-forte?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>in arrivo</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Salute Oculare;Benessere degli Occhi</Categories>
     <Image>https://otticapaoletti.it/cdn/shop/files/macular-b-forte-20-compresse-2493791.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340821&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
@@ -40,7 +40,7 @@
     <Price>28.9</Price>
     <Code>989655143</Code>
     <Link>https://otticapaoletti.it/products/gangliofid?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Salute Oculare;Benessere degli Occhi</Categories>
     <Image>https://otticapaoletti.it/cdn/shop/files/gangliofid-8123161.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1777114088&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
@@ -211,7 +211,7 @@
     <Price>13.37</Price>
     <Code>980115380</Code>
     <Link>https://otticapaoletti.it/products/myrialen-gel-oculare-10g?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Salute Oculare;Benessere degli Occhi</Categories>
     <Image>https://otticapaoletti.it/cdn/shop/files/myrialen-gel-oculare-10g-4115204.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340462&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
@@ -598,6 +598,23 @@
     <ShippingCost>5.20</ShippingCost>
     <EanCode>5050474101715</EanCode>
 
+
+
+  </Offer>
+  <Offer>
+    <Name>MERAMIRT CM 30 cpr</Name>
+    <Brand>Fidia</Brand>
+    <Description>MERAMIRT CM di Fidia è un integratore alimentare di zinco, con estratti di sambuco, ribes ed eleuterococco e con L-carnitina, in compresse masticabili. Le sostanze contenute: hanno effetto tonico-adattogeno (eleuterococco) contribuiscono al</Description>
+    <Price>13.5</Price>
+    <Code>934203961</Code>
+    <Link>https://otticapaoletti.it/products/meramirt-cm?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/meramirt-cm-30-cpr-8166249.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340994&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661806065</EanCode>
+
+    <MinsanCode>934203961</MinsanCode>
 
 
   </Offer>
