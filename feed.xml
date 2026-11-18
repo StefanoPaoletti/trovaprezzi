@@ -288,6 +288,24 @@
 
   </Offer>
   <Offer>
+    <Name>IRIDIUM 20 Garze</Name>
+    <Brand>Fidia</Brand>
+    <Description>Le garze IRIDIUM di Fidia sono garze sterili in cotone 100% naturale, imbevute di una soluzione di estratti vegetali: Echinacea angustifolia, Ananas sativus e ammonio glicirizzinato. Indicazioni Rimozione dalle palpebre e dalle ciglia di croste,</Description>
+    <Price>11.49</Price>
+    <Code>930099597</Code>
+    <Link>https://otticapaoletti.it/products/iridium-20-garze-fidia?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/iridium-20-garze-fidia-7998095.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462579&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661807369</EanCode>
+
+    <MinsanCode>930099597</MinsanCode>
+
+    <Weight>0.1</Weight>
+
+  </Offer>
+  <Offer>
     <Name>OPTOrespilens 360ml</Name>
     <Brand>Fidia</Brand>
     <Description>Scopri OPTOrespilens 360ml, la soluzione unica di OPTOx per lenti a contatto morbide. Con sodio ialuronato e ipromellosa, deterge, disinfetta, idrata e rimuove le proteine, ideale per occhi sensibili. Perché scegliere OPTOrespilens? Formulata con</Description>
@@ -319,24 +337,6 @@
 
     <MinsanCode>979081635</MinsanCode>
 
-
-  </Offer>
-  <Offer>
-    <Name>IRIDIUM 20 Garze</Name>
-    <Brand>Fidia</Brand>
-    <Description>Le garze IRIDIUM di Fidia sono garze sterili in cotone 100% naturale, imbevute di una soluzione di estratti vegetali: Echinacea angustifolia, Ananas sativus e ammonio glicirizzinato. Indicazioni Rimozione dalle palpebre e dalle ciglia di croste,</Description>
-    <Price>11.49</Price>
-    <Code>930099597</Code>
-    <Link>https://otticapaoletti.it/products/iridium-20-garze-fidia?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/iridium-20-garze-fidia-7998095.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462579&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661807369</EanCode>
-
-    <MinsanCode>930099597</MinsanCode>
-
-    <Weight>0.1</Weight>
 
   </Offer>
   <Offer>
@@ -434,6 +434,22 @@
     <Image>https://otticapaoletti.it/cdn/shop/files/microfibra-artu-king-size-35x40-cm-panno-pulizia-occhiali-4340431.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340582&amp;width=1000</Image>
     <ShippingCost>5.20</ShippingCost>
     <EanCode>8019659119928</EanCode>
+
+
+
+  </Offer>
+  <Offer>
+    <Name>Lens Plus OcuPure 360ml</Name>
+    <Brand>Amo</Brand>
+    <Description>Scopri Lens Plus OcuPure 360ml, la soluzione salina di Abbott per il risciacquo sicuro di lenti a contatto morbide e rigide. Senza conservanti a contatto con gli occhi, è perfetta per occhi sensibili e ideale dopo soluzioni al perossido. Perché</Description>
+    <Price>7.0</Price>
+    <Code>LPO-360</Code>
+    <Link>https://otticapaoletti.it/products/soluzione-salina-lens-plus-ocupure-360-ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/lens-plus-ocupure-360ml-soluzione-salina-per-lenti-a-contatto-morbide-e-rigide-1927524.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340990&amp;width=1000</Image>
+    <ShippingCost>5.20</ShippingCost>
+    <EanCode>5050474101715</EanCode>
 
 
 
@@ -584,22 +600,6 @@
 
 
     <ParentId>11347329679687</ParentId>
-  </Offer>
-  <Offer>
-    <Name>Lens Plus OcuPure 360ml</Name>
-    <Brand>Amo</Brand>
-    <Description>Scopri Lens Plus OcuPure 360ml, la soluzione salina di Abbott per il risciacquo sicuro di lenti a contatto morbide e rigide. Senza conservanti a contatto con gli occhi, è perfetta per occhi sensibili e ideale dopo soluzioni al perossido. Perché</Description>
-    <Price>7.0</Price>
-    <Code>LPO-360</Code>
-    <Link>https://otticapaoletti.it/products/soluzione-salina-lens-plus-ocupure-360-ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/lens-plus-ocupure-360ml-soluzione-salina-per-lenti-a-contatto-morbide-e-rigide-1927524.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340990&amp;width=1000</Image>
-    <ShippingCost>5.20</ShippingCost>
-    <EanCode>5050474101715</EanCode>
-
-
-
   </Offer>
   <Offer>
     <Name>MERAMIRT CM 30 cpr</Name>
