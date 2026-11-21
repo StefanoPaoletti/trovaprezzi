@@ -272,22 +272,6 @@
     <ParentId>8102763594050</ParentId>
   </Offer>
   <Offer>
-    <Name>ACTIVE care-up perossido</Name>
-    <Brand>Occhio x Occhio</Brand>
-    <Description>ACTIVE Care-Up Perossido di OcchioXOcchio è un sistema monofase con perossido di idrogeno al 3% per la pulizia, la disinfezione e la neutralizzazione di tutti i tipi di lenti a contatto. Il perossido di idrogeno disinfetta le lenti mentre la</Description>
-    <Price>14.0</Price>
-    <Code>PER-OX-250-30</Code>
-    <Link>https://otticapaoletti.it/products/active-care-up-perossido?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/active-care-up-perossido-8952454.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462580&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-
-
-    <Weight>0.25</Weight>
-
-  </Offer>
-  <Offer>
     <Name>IRIDIUM 20 Garze</Name>
     <Brand>Fidia</Brand>
     <Description>Le garze IRIDIUM di Fidia sono garze sterili in cotone 100% naturale, imbevute di una soluzione di estratti vegetali: Echinacea angustifolia, Ananas sativus e ammonio glicirizzinato. Indicazioni Rimozione dalle palpebre e dalle ciglia di croste,</Description>
@@ -303,6 +287,22 @@
     <MinsanCode>930099597</MinsanCode>
 
     <Weight>0.1</Weight>
+
+  </Offer>
+  <Offer>
+    <Name>ACTIVE care-up perossido</Name>
+    <Brand>Occhio x Occhio</Brand>
+    <Description>ACTIVE Care-Up Perossido di OcchioXOcchio è un sistema monofase con perossido di idrogeno al 3% per la pulizia, la disinfezione e la neutralizzazione di tutti i tipi di lenti a contatto. Il perossido di idrogeno disinfetta le lenti mentre la</Description>
+    <Price>14.0</Price>
+    <Code>PER-OX-250-30</Code>
+    <Link>https://otticapaoletti.it/products/active-care-up-perossido?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/active-care-up-perossido-8952454.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462580&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+
+
+    <Weight>0.25</Weight>
 
   </Offer>
   <Offer>
