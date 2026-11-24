@@ -108,7 +108,7 @@
     <Price>12.0</Price>
     <Code>974642163</Code>
     <Link>https://otticapaoletti.it/products/respilac-10ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
+    <Stock>in arrivo</Stock>
     <Categories>Salute Oculare;Benessere degli Occhi</Categories>
     <Image>https://otticapaoletti.it/cdn/shop/files/respilac-fidia-10ml-2978431.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462577&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
@@ -136,6 +136,23 @@
 
   </Offer>
   <Offer>
+    <Name>LACRISEK Plus Spray collirio 8 ml</Name>
+    <Brand>Fidia</Brand>
+    <Description>LACRiSEK® PLUS Spray di Fidia è un prodotto sterile a base di liposomi, vitamina A, vitamina E e aminoacidi, senza conservanti. Si spruzza a palpebre chiuse, quindi è comodo da usare anche in presenza di make-up. Indicazioni Indicato nei disturbi</Description>
+    <Price>12.49</Price>
+    <Code>971684129</Code>
+    <Link>https://otticapaoletti.it/products/lacrisek-plus-spray?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/lacrisek-plus-spray-collirio-8-ml-8588416.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779019755&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661805426</EanCode>
+
+    <MinsanCode>971684129</MinsanCode>
+
+
+  </Offer>
+  <Offer>
     <Name>IRIDIUM A free 10 ml</Name>
     <Brand>Fidia</Brand>
     <Description>IRIDIUM® A free di Fidia è una soluzione oftalmica isotonica sterile, senza conservanti, con acido ialuronico ed estratto di Echinacea. Indicazioni Indicato per l&#39;idratazione e la lubrificazione della superficie oculare in presenza di alterazioni</Description>
@@ -153,20 +170,21 @@
 
   </Offer>
   <Offer>
-    <Name>LACRISEK Plus Spray collirio 8 ml</Name>
+    <Name>MYRIALEN gel 1 tubo 10g</Name>
     <Brand>Fidia</Brand>
-    <Description>LACRiSEK® PLUS Spray di Fidia è un prodotto sterile a base di liposomi, vitamina A, vitamina E e aminoacidi, senza conservanti. Si spruzza a palpebre chiuse, quindi è comodo da usare anche in presenza di make-up. Indicazioni Indicato nei disturbi</Description>
-    <Price>12.49</Price>
-    <Code>971684129</Code>
-    <Link>https://otticapaoletti.it/products/lacrisek-plus-spray?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Description>MYRIALEN® gel di Fidia è un gel oftalmico sterile con dexpantenolo al 5%. Indicazioni Indicato per mantenere l&#39;idratazione e la protezione della superficie oculare, apportando un duraturo sollievo in caso di irritazione, bruciore e sensazione di</Description>
+    <Price>13.37</Price>
+    <Code>980115380</Code>
+    <Link>https://otticapaoletti.it/products/myrialen-gel-oculare-10g?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
     <Stock>disponibile</Stock>
     <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/lacrisek-plus-spray-collirio-8-ml-8588416.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779019755&amp;width=1000</Image>
+    <Image>https://otticapaoletti.it/cdn/shop/files/myrialen-gel-oculare-10g-4115204.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340462&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661805426</EanCode>
+    <EanCode>8033661807192</EanCode>
 
-    <MinsanCode>971684129</MinsanCode>
+    <MinsanCode>980115380</MinsanCode>
 
+    <Weight>0.1</Weight>
 
   </Offer>
   <Offer>
@@ -202,24 +220,6 @@
 
     <MinsanCode>900191469</MinsanCode>
 
-
-  </Offer>
-  <Offer>
-    <Name>MYRIALEN gel 1 tubo 10g</Name>
-    <Brand>Fidia</Brand>
-    <Description>MYRIALEN® gel di Fidia è un gel oftalmico sterile con dexpantenolo al 5%. Indicazioni Indicato per mantenere l&#39;idratazione e la protezione della superficie oculare, apportando un duraturo sollievo in caso di irritazione, bruciore e sensazione di</Description>
-    <Price>13.37</Price>
-    <Code>980115380</Code>
-    <Link>https://otticapaoletti.it/products/myrialen-gel-oculare-10g?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/myrialen-gel-oculare-10g-4115204.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340462&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661807192</EanCode>
-
-    <MinsanCode>980115380</MinsanCode>
-
-    <Weight>0.1</Weight>
 
   </Offer>
   <Offer>
@@ -357,22 +357,6 @@
 
   </Offer>
   <Offer>
-    <Name>Boston Advance Detergente</Name>
-    <Brand>BAUSCH + LOMB</Brand>
-    <Description>Scopri Boston Advance Detergente, la soluzione di Bausch + Lomb per una pulizia profonda delle tue lenti a contatto rigide gas permeabili (RGP). Rimuove sporco, depositi lipidici e proteici, lasciando le lenti fresche e pronte per la disinfezione.</Description>
-    <Price>11.0</Price>
-    <Code>BAD-30</Code>
-    <Link>https://otticapaoletti.it/products/boston-advance-detergente?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/boston-advance-detergente-pulizia-profonda-per-lenti-rgp-9127900.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340946&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>7391899857312</EanCode>
-
-
-
-  </Offer>
-  <Offer>
     <Name>MERAMIRT XG 20 cpr 500 mg</Name>
     <Brand>Fidia</Brand>
     <Description>MERAMIRT XG di Fidia è un integratore alimentare a base di riso nero, Verbalief® (estratto di verbasco), luteina FloraGLO® e zinco. Senza glutine e senza lattosio. Lo zinco contribuisce: al mantenimento della capacità visiva normale alla protezione</Description>
@@ -421,6 +405,22 @@
 
 
     <ParentId>8102763725122</ParentId>
+  </Offer>
+  <Offer>
+    <Name>Boston Advance Detergente</Name>
+    <Brand>BAUSCH + LOMB</Brand>
+    <Description>Scopri Boston Advance Detergente, la soluzione di Bausch + Lomb per una pulizia profonda delle tue lenti a contatto rigide gas permeabili (RGP). Rimuove sporco, depositi lipidici e proteici, lasciando le lenti fresche e pronte per la disinfezione.</Description>
+    <Price>11.0</Price>
+    <Code>BAD-30</Code>
+    <Link>https://otticapaoletti.it/products/boston-advance-detergente?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Soluzioni per lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/boston-advance-detergente-pulizia-profonda-per-lenti-rgp-9127900.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340946&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>7391899857312</EanCode>
+
+
+
   </Offer>
   <Offer>
     <Name>Microfibra Artù King Size 35x40 cm</Name>
