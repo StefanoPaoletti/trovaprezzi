@@ -68,23 +68,6 @@
 
   </Offer>
   <Offer>
-    <Name>BLUyal 10ml</Name>
-    <Brand>Fidia</Brand>
-    <Description>BLUyal® di Fidia è un sostituto lacrimale che stabilizza il film lacrimale e lubrifica la superficie oculare, con acido ialuronico FHA 1.0® 0,15% e aminoacidi, senza conservanti. Si può usare anche con le lenti a contatto. Indicazioni Indicato per</Description>
-    <Price>12.39</Price>
-    <Code>971528195</Code>
-    <Link>https://otticapaoletti.it/products/bluyal-10ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/bluyal-10ml-6191122.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1778937189&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8055267241651</EanCode>
-
-    <MinsanCode>971528195</MinsanCode>
-
-
-  </Offer>
-  <Offer>
     <Name>REPAXIAL 20 compresse</Name>
     <Brand>Fidia</Brand>
     <Description>Repaxial di Fidia è un integratore alimentare a base di estratto di verbasco (verbascoside), riso nero (C3G) e zinco. Senza glutine e senza lattosio. Lo zinco contribuisce: al mantenimento della capacità visiva normale alla protezione delle cellule</Description>
@@ -98,6 +81,23 @@
     <EanCode>8033661807802</EanCode>
 
     <MinsanCode>986112872</MinsanCode>
+
+
+  </Offer>
+  <Offer>
+    <Name>BLUyal 10ml</Name>
+    <Brand>Fidia</Brand>
+    <Description>BLUyal® di Fidia è un sostituto lacrimale che stabilizza il film lacrimale e lubrifica la superficie oculare, con acido ialuronico FHA 1.0® 0,15% e aminoacidi, senza conservanti. Si può usare anche con le lenti a contatto. Indicazioni Indicato per</Description>
+    <Price>12.39</Price>
+    <Code>971528195</Code>
+    <Link>https://otticapaoletti.it/products/bluyal-10ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/bluyal-10ml-6191122.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1778937189&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8055267241651</EanCode>
+
+    <MinsanCode>971528195</MinsanCode>
 
 
   </Offer>
@@ -618,6 +618,22 @@
 
   </Offer>
   <Offer>
+    <Name>Contenitore a Cestello per Lenti a Contatto</Name>
+    <Brand>Centrostyle</Brand>
+    <Description>Scopri il Contenitore a cestello per lenti a contatto, l’accessorio indispensabile per la conservazione sicura e igienica di tutte le tue lenti a contatto, morbide o rigide. Progettato per semplificare la tua routine quotidiana con un design</Description>
+    <Price>4.5</Price>
+    <Code>CONT-CST-LENTI</Code>
+    <Link>https://otticapaoletti.it/products/contenitore-a-cestello-per-lenti-a-contatto?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Lenti a Contatto;Kit per la cura delle lenti a contatto</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/contenitore-a-cestello-per-lenti-a-contatto-7184333.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1792277588&amp;width=1000</Image>
+    <ShippingCost>5.20</ShippingCost>
+    <EanCode>8019659087302</EanCode>
+
+
+
+  </Offer>
+  <Offer>
     <Name>MERAMIRT CM 30 cpr</Name>
     <Brand>Fidia</Brand>
     <Description>MERAMIRT CM di Fidia è un integratore alimentare di zinco, con estratti di sambuco, ribes ed eleuterococco e con L-carnitina, in compresse masticabili. Le sostanze contenute: hanno effetto tonico-adattogeno (eleuterococco) contribuiscono al</Description>
@@ -791,22 +807,6 @@
     <Image>https://otticapaoletti.it/cdn/shop/files/boston-simplus-multiazione-bausch-lomb-120-ml-lenti-rigide-7422905.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340990&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
     <EanCode>7391899837253</EanCode>
-
-
-
-  </Offer>
-  <Offer>
-    <Name>Contenitore a Cestello per Lenti a Contatto</Name>
-    <Brand>Centrostyle</Brand>
-    <Description>Scopri il Contenitore a cestello per lenti a contatto, l’accessorio indispensabile per la conservazione sicura e igienica di tutte le tue lenti a contatto, morbide o rigide. Progettato per semplificare la tua routine quotidiana con un design</Description>
-    <Price>4.5</Price>
-    <Code>CONT-CST-LENTI</Code>
-    <Link>https://otticapaoletti.it/products/contenitore-a-cestello-per-lenti-a-contatto?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Lenti a Contatto;Kit per la cura delle lenti a contatto</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/contenitore-a-cestello-per-lenti-a-contatto-7184333.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1792277588&amp;width=1000</Image>
-    <ShippingCost>5.20</ShippingCost>
-    <EanCode>8019659087302</EanCode>
 
 
 
