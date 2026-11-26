@@ -6,7 +6,7 @@
     <Price>15.52</Price>
     <Code>938796733</Code>
     <Link>https://otticapaoletti.it/products/macular-b-forte?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>in arrivo</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Salute Oculare;Benessere degli Occhi</Categories>
     <Image>https://otticapaoletti.it/cdn/shop/files/macular-b-forte-20-compresse-2493791.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340821&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
@@ -68,23 +68,6 @@
 
   </Offer>
   <Offer>
-    <Name>REPAXIAL 20 compresse</Name>
-    <Brand>Fidia</Brand>
-    <Description>Repaxial di Fidia è un integratore alimentare a base di estratto di verbasco (verbascoside), riso nero (C3G) e zinco. Senza glutine e senza lattosio. Lo zinco contribuisce: al mantenimento della capacità visiva normale alla protezione delle cellule</Description>
-    <Price>16.4</Price>
-    <Code>986112872</Code>
-    <Link>https://otticapaoletti.it/products/repaxial-20-compresse?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
-    <Image>https://otticapaoletti.it/cdn/shop/files/repaxial-20-compresse-6348868.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779516850&amp;width=1000</Image>
-    <ShippingCost>3.90</ShippingCost>
-    <EanCode>8033661807802</EanCode>
-
-    <MinsanCode>986112872</MinsanCode>
-
-
-  </Offer>
-  <Offer>
     <Name>BLUyal 10ml</Name>
     <Brand>Fidia</Brand>
     <Description>BLUyal® di Fidia è un sostituto lacrimale che stabilizza il film lacrimale e lubrifica la superficie oculare, con acido ialuronico FHA 1.0® 0,15% e aminoacidi, senza conservanti. Si può usare anche con le lenti a contatto. Indicazioni Indicato per</Description>
@@ -102,13 +85,30 @@
 
   </Offer>
   <Offer>
+    <Name>REPAXIAL 20 compresse</Name>
+    <Brand>Fidia</Brand>
+    <Description>Repaxial di Fidia è un integratore alimentare a base di estratto di verbasco (verbascoside), riso nero (C3G) e zinco. Senza glutine e senza lattosio. Lo zinco contribuisce: al mantenimento della capacità visiva normale alla protezione delle cellule</Description>
+    <Price>16.4</Price>
+    <Code>986112872</Code>
+    <Link>https://otticapaoletti.it/products/repaxial-20-compresse?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/repaxial-20-compresse-6348868.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1779516850&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661807802</EanCode>
+
+    <MinsanCode>986112872</MinsanCode>
+
+
+  </Offer>
+  <Offer>
     <Name>RESPILAC 10ml</Name>
     <Brand>Fidia</Brand>
     <Description>RESPILAC di Fidia è un sostituto lacrimale in soluzione oftalmica sterile e isotonica, senza conservanti, a base di Lipidure® 2,0% e ipromellosa 0,1%. Protegge e lubrifica la superficie oculare ed è pensato in particolare per chi porta lenti a</Description>
     <Price>12.0</Price>
     <Code>974642163</Code>
     <Link>https://otticapaoletti.it/products/respilac-10ml?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
-    <Stock>in arrivo</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Salute Oculare;Benessere degli Occhi</Categories>
     <Image>https://otticapaoletti.it/cdn/shop/files/respilac-fidia-10ml-2978431.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1774462577&amp;width=1000</Image>
     <ShippingCost>3.90</ShippingCost>
@@ -336,6 +336,23 @@
     <EanCode>8033661807352</EanCode>
 
     <MinsanCode>935800805</MinsanCode>
+
+
+  </Offer>
+  <Offer>
+    <Name>IRIDIUM baby 28 garze</Name>
+    <Brand>Fidia</Brand>
+    <Description>Le garze IRIDIUM baby di Fidia sono garze sterili in cotone 100% naturale, imbevute di una soluzione di estratti vegetali: Echinacea angustifolia, Ananas sativus e ammonio glicirizzinato. Indicazioni Rimozione dalle palpebre e dalle ciglia di</Description>
+    <Price>12.21</Price>
+    <Code>939266589</Code>
+    <Link>https://otticapaoletti.it/products/iridium-baby-28-garze?utm_source=trovaprezzi&amp;utm_medium=cpc</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Salute Oculare;Benessere degli Occhi</Categories>
+    <Image>https://otticapaoletti.it/cdn/shop/files/iridium-baby-28-garze-7823980.webp?crop=center&amp;format=jpg&amp;height=1000&amp;v=1773340043&amp;width=1000</Image>
+    <ShippingCost>3.90</ShippingCost>
+    <EanCode>8033661805976</EanCode>
+
+    <MinsanCode>939266589</MinsanCode>
 
 
   </Offer>
